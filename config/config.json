@@ -1,0 +1,6 @@
+{
+    "distance_data_path": "data/test/distance.txt",
+    "demand_data_path": "data/test/demand.txt",
+    "type_initial_solution": "random",
+    "p": 2
+}
